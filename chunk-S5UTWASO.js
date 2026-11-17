@@ -1,0 +1,1 @@
+import{ga as i,l as t}from"./chunk-574LZLOX.js";var l=class e{request$$=new t(null);request$=this.request$$.asObservable();open(r){r.url&&this.request$$.next(r)}close(){this.request$$.next(null)}static \u0275fac=function(a){return new(a||e)};static \u0275prov=i({token:e,factory:e.\u0275fac,providedIn:"root"})};export{l as a};
